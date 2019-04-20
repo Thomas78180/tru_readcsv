@@ -1,9 +1,9 @@
 {
   "name": "tru_readcsv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "read a csv line by line, get a synchronous task with an array of plain objects or perform async tasks on each line a plain object",
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
